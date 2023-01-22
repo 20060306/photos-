@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 20px;
+}
+
+.list-img{
+    display: flex;
+  flex-direction: column; 
+   gap: 40px;
+
+}
+
+
+
+.img-list{
+    width: 600px;
+    height:  600px;
+
+}
+
+
+.img-list{
+    list-style-type: none;
+}
+
+.img-id{
+  margin: 0;
+  
+}
+
+.img-title{
+ margin: 0;
+}
